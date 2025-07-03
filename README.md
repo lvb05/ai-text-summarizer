@@ -88,6 +88,31 @@ node server/server.js
 ```
 Then open public/index.html in your browser (or run the server and open in Replit).
 
+---
+## 📦 Create package.json and Install Dependencies
+
+To set up the Node.js backend, run the following in the root of your project:
+
+```bash
+npm init -y
+npm install express body-parser axios dotenv cors
+```
+<details>
+  <summary>📦 What does this command do?</summary>
+
+This will:
+
+- 🗂 **Create a `package.json` file** with basic project metadata  
+- 📦 **Install all required dependencies** for the backend server:
+  - **`express`** – Web server framework  
+  - **`body-parser`** – Parses JSON from incoming requests  
+  - **`axios`** – Makes HTTP requests to Hugging Face API  
+  - **`dotenv`** – Loads API keys securely from a `.env` file  
+  - **`cors`** – Enables cross-origin requests between frontend and backend  
+
+</details>
+
+---
 🌐 Live Demo
 🔗 Coming soon via Replit/GitHub Pages (or paste your live deployment link here)
 
