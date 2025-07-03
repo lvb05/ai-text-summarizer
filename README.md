@@ -1,13 +1,16 @@
-# 🧠 AI Text Summarizer Web App
+<h1 align="center">🧠 AI Text Summarizer Web App</h1>
 
-![Node.js](https://img.shields.io/badge/backend-Node.js-blue?logo=node.js)
-![Express](https://img.shields.io/badge/framework-Express.js-black?logo=express)
-![JavaScript](https://img.shields.io/badge/code-JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/frontend-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/style-CSS-blue?logo=css3)
-![Postman](https://img.shields.io/badge/tool-Postman-orange?logo=postman)
-![HuggingFace](https://img.shields.io/badge/API-HuggingFace-yellow?logo=huggingface)
-[![Run on Replit](https://replit.com/badge/github/your-username/ai-text-summarizer)](https://replit.com/@your-username/ai-text-summarizer)
+<p align="center">
+  <img src="https://img.shields.io/badge/backend-Node.js-blue?logo=node.js" />
+  <img src="https://img.shields.io/badge/framework-Express.js-black?logo=express" />
+  <img src="https://img.shields.io/badge/code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/frontend-HTML-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/style-CSS-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/tool-Postman-orange?logo=postman" />
+  <img src="https://img.shields.io/badge/API-HuggingFace-yellow?logo=huggingface" />
+  
+</p>
+
 
 
 An AI-powered text summarization full-stack web application that uses the Hugging Face Inference API to generate concise summaries of long texts in real-time. Built as part of the Postman Project-Based Learning Series.
