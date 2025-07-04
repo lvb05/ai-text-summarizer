@@ -1,4 +1,4 @@
-<h1 align="center">🧠 AI Text Summarizer Web App</h1>
+<h1 align="center">AI Text Summarizer Web App</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/backend-Node.js-blue?logo=node.js" />
